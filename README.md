@@ -1,24 +1,33 @@
 # README
 ## java-lambda-stream-exercise
 
+* Create Employee class having 4 fields name as age , name, sureName and salary. Generate constructor and getter/setter. Create EmployeeApplication Class, this class will create List objects of Employees.
+   
+(1) Following implementation needs to be done in EmployeeProcessingWithStreams Class :-
 
-(1)Create Employee class having 3 fields name as age , name and sureName. Generate constructor and getter/setter. Create EmployeeImplementation Class, this class will create List objects of Employees. Following implementation needs to be done 
+* a) Printing all employee names in upper case.
 
-a) Sorting the employee data by theirs Name:. 
+* b) printing all the employee names ending with 'A' in upper case.
 
-b) filter all employee data starting name with 'A'
+* c) Count the employee names ending with 'A' Letter:
 
-c) filter all the employee names starting with P
+* d) Printing the employee names starting with D :
 
-d) Printing all employee names in upper case.
+* e) Employee whose age more than 23 yrs are :
 
-e) printing all the employee names ending with 'A' in upper case.
+* f) get Employees Data having Salary More Than 50000 rupees:
 
-f) Count the employee names ending with 'A' Letter:
+(2) Following implementation needs to be done in EmployeeProcessingWithLambda Class :-
 
-g) Printing the employee names starting with D :
+* a) Sorting the employee data by theirs Name:.
 
-h) Employee whose age more than 23 yrs are :
+* b) sort employees List By Their Age :
+
+* c) sort Employees name In Ascending order =>
+
+* d) sort Employees name In Descending order =>
+
+* e) After Sorting the employee data by salary :
 
 ### Requirements
 1. JDK 1.8 or more [download](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
